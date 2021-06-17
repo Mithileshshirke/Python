@@ -1,0 +1,536 @@
+,Model_name,Ratings,Customers_rated,RAM,Internal_storage,Display_size,Camera,Battery_mAh,Price,Discount,Final_Price
+0,"SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",4.2,40455,4.0,128,16.55,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,6000,13999,21,10999
+1,"SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",4.2,40455,4.0,64,16.55,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,6000,12999,23,9999
+2,"SAMSUNG Galaxy F41 (Fusion Blue, 128 GB)",4.3,305200,6.0,128,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,20999,30,14499
+3,"SAMSUNG Galaxy F12 (Sea Green, 64 GB)",4.2,40455,4.0,64,16.55,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,6000,12999,23,9999
+4,"SAMSUNG Galaxy F12 (Sea Green, 128 GB)",4.2,40455,4.0,128,16.55,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,6000,13999,21,10999
+5,"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.3,15971,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,31999,18,25999
+6,"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",4.3,15971,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,31999,18,25999
+7,"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.3,996,8.0,128,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,19900,7,18489
+8,"SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",4.2,962,4.0,64,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,11499,13,9999
+9,"SAMSUNG M31 (Ocean Blue, 128 GB)",4.3,4468,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,17499,9,15902
+10,"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.3,15971,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,31999,18,25999
+11,"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",4.3,6921,4.0,64,16.26,48MP + 8MP + 5MP | 20MP Front Camera,6000,15999,13,13850
+12,"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.3,7192,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,17499,5,16480
+13,"SAMSUNG Galaxy M12 (Black, 64 GB)",4.3,1144,4.0,64,16.51,48MP Rear Camera,6000,0,0,11290
+14,"SAMSUNG Galaxy F41 (Fusion Green, 128 GB)",4.3,305200,6.0,128,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,20999,30,14499
+15,"SAMSUNG Galaxy M11 (Black, 64 GB)",4.3,7137,4.0,64,16.26,13MP + 5MP + 2MP | 8MP Front Camera,5000,10587,5,9962
+16,"SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",4.2,1131,3.0,32,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,10499,14,8999
+17,"SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",4.4,1157,6.0,128,17.02,64MP Rear Camera,7000,22529,0,22387
+18,"SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",4.3,9790,6.0,128,16.26,48MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,23999,29,16999
+19,"SAMSUNG Galaxy A21s (Blue, 64 GB)",4.2,20028,4.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,17999,27,12999
+20,"SAMSUNG Galaxy M02 (Blue, 32 GB)",4.0,661,3.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,8258
+21,"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",4.3,6921,4.0,64,16.26,48MP + 8MP + 5MP | 20MP Front Camera,6000,15999,15,13570
+22,"SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",4.2,40455,4.0,128,16.55,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,6000,13999,21,10999
+23,"SAMSUNG Galaxy M02 (Blue, 32 GB)",4.1,470,2.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,7899
+24,"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",4.4,242,6.0,128,16.76,48MP Rear Camera,5000,23200,0,22999
+25,"SAMSUNG Galaxy M51 (Electric Blue, 128 GB)",4.4,496,8.0,128,17.02,64MP Rear Camera,7000,0,0,25602
+26,"SAMSUNG Galaxy M12 (Blue, 64 GB)",4.3,1144,4.0,64,16.51,48MP Rear Camera,6000,11250,0,11218
+27,"SAMSUNG Galaxy A31 (Prism Crush White, 128 GB)",4.3,9790,6.0,128,16.26,48MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,23999,29,16999
+28,"SAMSUNG M31s (Mirage Blue, 128 GB)",4.2,196,8.0,128,16.51,64MP + 12MP | 32MP Front Camera,6000,22789,6,21268
+29,"SAMSUNG Galaxy M11 (Violet, 64 GB)",4.3,7137,4.0,64,16.26,13MP + 5MP + 2MP | 8MP Front Camera,5000,10685,7,9868
+30,"SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)",4.3,996,8.0,128,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,19502,2,18980
+31,"SAMSUNG M31 Prime (Space Black, 128 GB)",4.4,650,6.0,128,16.26,64MP Rear Camera,6000,0,0,16990
+32,"SAMSUNG Galaxy M11 (Metallic Blue, 64 GB)",4.3,7137,4.0,64,16.26,13MP + 5MP + 2MP | 8MP Front Camera,5000,13202,24,9909
+33,"SAMSUNG M31 Prime (IceBerg Blue, 128 GB)",4.4,650,6.0,128,16.26,64MP Rear Camera,6000,18490,8,16990
+34,"SAMSUNG Galaxy M31 (Space Black, 64 GB)",4.3,7192,6.0,64,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,16499,1,16199
+35,"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",4.3,3749,8.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,29999,25,22499
+36,"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.2,1663,4.0,64,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,13999,7,12999
+37,"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",4.3,3749,8.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,29999,25,22499
+38,"SAMSUNG Galaxy M42 5G (Prism Dot Gray, 128 GB)",4.4,242,6.0,128,16.76,48MP Rear Camera,5000,23200,2,22599
+39,"SAMSUNG Galaxy A21s (Black, 128 GB)",4.2,6867,6.0,128,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,18999,7,17499
+40,"SAMSUNG Galaxy A12 (Black, 128 GB)",4.2,1663,4.0,128,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,14999,6,13999
+41,"SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",4.4,6378,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,34999,21,27499
+42,"SAMSUNG M02s (Blue, 64 GB)",4.2,726,4.0,64,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,0,0,10199
+43,"SAMSUNG M02s (Red, 32 GB)",4.1,353,3.0,32,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,9690,6,9087
+44,"SAMSUNG GALAXY M31S (Mirage Black, 128 GB)",4.4,104,8.0,128,16.51,64MP Rear Camera,6000,23999,12,20885
+45,"SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",4.2,1058,6.0,128,16.51,64MP Rear Camera,6000,22495,14,19128
+46,"SAMSUNG Galaxy M01 (Blue, 32 GB)",4.2,19059,3.0,32,14.48,13MP + 2MP | 5MP Front Camera,4000,0,0,8336
+47,"SAMSUNG Galaxy M02 (Black, 32 GB)",4.1,470,2.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,7899
+48,"SAMSUNG Galaxy M02 (Gray, 32 GB)",4.1,470,2.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,7899
+49,"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",4.2,32727,6.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,29999,20,23999
+50,"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.2,1663,4.0,128,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,14999,6,13999
+51,"SAMSUNG Galaxy A31 (Prism Crush Black, 128 GB)",4.3,9790,6.0,128,16.26,48MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,23999,29,16999
+52,"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",4.2,1058,6.0,128,16.51,64MP Rear Camera,6000,0,0,20400
+53,"SAMSUNG Galaxy F02s (Diamond Black, 32 GB)",4.2,1131,3.0,32,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,10499,14,8999
+54,"SAMSUNG Galaxy M02 (Black, 32 GB)",4.0,661,3.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,8283
+55,"SAMSUNG Galaxy A12 (Black, 64 GB)",4.2,1663,4.0,64,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,13999,7,12999
+56,"SAMSUNG Galaxy M02 (Red, 32 GB)",4.0,661,3.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,8257
+57,"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",4.3,9563,6.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,25999,19,20999
+58,"SAMSUNG Galaxy F02s (Diamond Black, 64 GB)",4.2,962,4.0,64,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,11499,13,9999
+59,"SAMSUNG Galaxy F02s (Diamond White, 64 GB)",4.2,962,4.0,64,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,11499,13,9999
+60,"SAMSUNG Galaxy M11 (Violet, 32 GB)",4.2,10175,3.0,32,16.26,13MP + 5MP + 2MP | 8MP Front Camera,5000,10349,3,9990
+61,"SAMSUNG Galaxy A21s (Blue, 128 GB)",4.2,6867,6.0,128,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,18999,7,17499
+62,"SAMSUNG Galaxy A21s (Silver, 128 GB)",4.2,6867,6.0,128,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,18999,7,17499
+63,"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.2,32727,6.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,29999,20,23999
+64,"SAMSUNG Galaxy F41 (Fusion Blue, 64 GB)",4.3,305200,6.0,64,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,19999,20,15999
+65,"SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",4.3,305200,6.0,64,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,19999,20,15999
+66,"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",4.2,1285,6.0,128,16.26,64MP Rear Camera,5000,24999,18,20499
+67,"SAMSUNG Galaxy M02 (Gray, 32 GB)",4.0,661,3.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,0,0,8237
+68,"SAMSUNG M31 Prime (Ocean Blue, 128 GB)",4.4,650,6.0,128,16.26,64MP Rear Camera,6000,17999,5,16990
+69,"SAMSUNG M02s (Blue, 32 GB)",4.1,353,3.0,32,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,9613,6,8967
+70,"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",4.3,9563,6.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,25999,19,20999
+71,"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",4.2,10175,3.0,32,16.26,13MP + 5MP + 2MP | 8MP Front Camera,5000,10305,2,10085
+72,"SAMSUNG Galaxy A21s (Blue, 64 GB)",4.2,6867,6.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,0,0,19999
+73,"SAMSUNG Galaxy M51 (Celestial Black, 128 GB)",4.4,496,8.0,128,17.02,64MP Rear Camera,7000,0,0,25718
+74,"SAMSUNG Galaxy A12 (White, 128 GB)",4.2,1663,4.0,128,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,14999,6,13999
+75,"SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",4.3,305200,6.0,64,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,19999,20,15999
+76,"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.4,1100,8.0,128,17.02,64MP + 5MP + 8MP | 32MP Front Camera,4500,0,0,33100
+77,"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.3,3749,8.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,29999,25,22499
+78,"SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",4.4,1157,6.0,128,17.02,64MP Rear Camera,7000,0,0,22490
+79,"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.3,9563,6.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,25999,19,20999
+80,"SAMSUNG Galaxy S21 Plus (Phantom Violet, 256 GB)",4.4,162,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,104999,27,75999
+81,"SAMSUNG Galaxy A12 (White, 64 GB)",4.2,1663,4.0,64,16.51,48MP + 5MP + 2MP + 2MP | 8MP Front Camera,5000,13999,7,12999
+82,"SAMSUNG Galaxy A20s (Black, 64 GB)",4.3,1151,4.0,64,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,0,0,14750
+83,"SAMSUNG Galaxy A32 (Awesome White, 128 GB)",4.2,1285,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,0,0,20599
+84,"SAMSUNG Galaxy A21s (Black, 64 GB)",4.2,20028,4.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,0,0,17999
+85,"SAMSUNG Galaxy M01 (Black, 32 GB)",4.2,19059,3.0,32,14.48,13MP + 2MP | 5MP Front Camera,4000,9999,15,8499
+86,"SAMSUNG Galaxy M31 (Iceberg blue, 128 GB)",4.3,7192,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,16500,1,16287
+87,"SAMSUNG Galaxy A21s (Black, 64 GB)",4.2,6867,6.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,0,0,19999
+88,"SAMSUNG Galaxy M01s  (Light Blue, 32 GB)",4.2,525,3.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,10990
+89,"SAMSUNG Galaxy S20+ (Cosmic Gray, 128 GB)",4.4,18874,8.0,128,17.02,64 MP + 12 MP +12 MP + VGA Depth Camera | 10MP Front Camera,4500,83000,33,54999
+90,"SAMSUNG M02s (Black, 64 GB)",4.2,726,4.0,64,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,0,0,10178
+91,"SAMSUNG Galaxy M30S (Quartz Green, 128 GB)",4.3,4133,4.0,128,16.26,48MP Rear Camera,6000,0,0,17490
+92,"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.2,32728,6.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,7000,29999,20,23999
+93,"SAMSUNG Galaxy M12 (White, 64 GB)",4.3,1144,4.0,64,16.51,48MP Rear Camera,6000,11998,4,11440
+94,"SAMSUNG Galaxy M01 (Red, 32 GB)",4.2,19059,3.0,32,14.48,13MP + 2MP | 5MP Front Camera,4000,9999,15,8499
+95,"SAMSUNG Galaxy F02s (Diamond White, 32 GB)",4.2,1131,3.0,32,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,10499,14,8999
+96,"SAMSUNG Galaxy F02s (Diamond White, 32 GB)",4.2,1131,3.0,32,16.55,13MP + 2MP + 2MP | 5MP Front Camera,5000,10499,14,8999
+97,"SAMSUNG Galaxy S20 FE (Cloud Navy, 128 GB)",4.0,500,8.0,128,16.51,12MP + 12MP + 8MP Rear Camera | 32MP Front Camera,4500,65999,42,37990
+98,"SAMSUNG Galaxy M31 (Ocean Blue, 64 GB)",4.3,7190,6.0,64,16.26,64MP + 8MP + 5MP + 5MP | 32MP Front Camera,6000,0,0,16299
+99,"SAMSUNG M02s (Black, 32 GB)",4.1,354,3.0,32,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,9699,7,8965
+100,"SAMSUNG Galaxy A50 (Blue, 64 GB)",4.4,11327,6.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,24000
+101,"SAMSUNG Galaxy S21 Plus (Phantom Black, 256 GB)",4.4,162,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,104999,27,75999
+102,"SAMSUNG Galaxy S21 Plus (Phantom Black, 128 GB)",4.4,162,8.0,128,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,100999,28,71999
+103,"SAMSUNG Galaxy S20 FE (Cloud White, 128 GB)",4.0,500,8.0,128,16.51,12MP + 12MP + 8MP Rear Camera | 32MP Front Camera,4500,65999,42,37990
+104,"SAMSUNG Galaxy S21 Ultra (Phantom Silver, 256 GB)",4.5,493,12.0,256,17.27,108MP + 12MP + 10MP + 10MP | 40MP Front Camera,5000,128999,17,105999
+105,"SAMSUNG Galaxy S20 FE (Cloud Lavender, 128 GB)",4.0,500,8.0,128,16.51,12MP + 12MP + 8MP Rear Camera | 32MP Front Camera,4500,65999,42,37990
+106,"SAMSUNG Galaxy S21 Plus (Phantom Violet, 128 GB)",4.4,162,8.0,128,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,100999,28,71999
+107,"SAMSUNG Galaxy M40 (Seawater Blue, 128 GB)",4.2,1201,6.0,128,16.0,32MP Rear Camera,3500,0,0,15490
+108,"SAMSUNG Galaxy M40 (Midnight Blue, 128 GB)",4.2,1201,6.0,128,16.0,32MP Rear Camera,3500,0,0,14990
+109,"SAMSUNG Galaxy A21s (White, 64 GB)",4.2,6866,6.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,0,0,15999
+110,"SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Black, 256 GB)",4.5,206,12.0,256,17.53,108MP + 12MP + 12MP | 10MP Front Camera,4500,116000,20,91999
+111,"SAMSUNG Galaxy M30 (Gradation Blue, 64 GB)",4.4,4189,4.0,64,16.26,13MP Rear Camera,5000,0,0,13490
+112,"SAMSUNG Galaxy M21 (Raven Black, 128 GB)",4.2,1417,6.0,128,16.26,48MP + 8MP + 5MP | 20MP Front Camera,6000,0,0,15990
+113,"SAMSUNG Galaxy M30 (Gradation Black, 64 GB)",4.4,4189,4.0,64,16.26,13MP Rear Camera,5000,0,0,13490
+114,"SAMSUNG Galaxy S21 Plus (Phantom Silver, 256 GB)",4.4,162,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,104999,27,75999
+115,"SAMSUNG Galaxy M12 (Black, 128 GB)",4.2,258,6.0,128,16.51,48MP Rear Camera,6000,0,0,14989
+116,"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",4.2,1282,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,24999,18,20499
+117,"SAMSUNG Galaxy M30S (Blue, 128 GB)",4.3,4133,4.0,128,16.26,48MP + 8MP | 16MP Front Camera,6000,16949,5,15990
+118,"SAMSUNG Galaxy M30s (Black, 64 GB)",4.3,4133,4.0,64,16.26,48MP Rear Camera | 16MP Front Camera,6000,0,0,15490
+119,"SAMSUNG M01 core (Red, 32 GB)",3.9,7714,2.0,32,13.46,8MP Rear Camera | 5MP Front Camera,3000,0,0,7999
+120,"SAMSUNG Galaxy S21 Plus (Phantom Silver, 256 GB)",4.4,162,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,104999,27,75999
+121,"SAMSUNG Galaxy M30 (Gradation Black, 64 GB)",4.4,4190,4.0,64,16.26,13MP Rear Camera,5000,0,0,13490
+122,"SAMSUNG Galaxy A9 (Caviar Black, 128 GB)",4.3,569,8.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,28490,1,27990
+123,"SAMSUNG Galaxy M30s (Blue, 64 GB)",4.3,4133,4.0,64,16.26,48MP Rear Camera | 16MP Front Camera,6000,0,0,14990
+124,"SAMSUNG Galaxy S10 Lite (Prism Black, 512 GB)",4.5,12693,8.0,512,17.02,48MP + 12MP + 5MP | 32MP Front Camera,4500,0,0,45999
+125,"SAMSUNG Galaxy A7 (Gold, 64 GB)",4.4,12915,4.0,64,15.24,24MP + 5MP + 8MP | 24MP Front Camera,3300,0,0,22300
+126,"SAMSUNG Galaxy M30 (Gradation Blue, 128 GB)",4.3,343,6.0,128,16.26,13MP Rear Camera,5000,0,0,16490
+127,"SAMSUNG Galaxy S21 Plus (Phantom Silver, 128 GB)",4.4,162,8.0,128,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4800,100999,28,71999
+128,"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.4,1100,8.0,128,17.02,64MP + 5MP + 8MP | 32MP Front Camera,4500,0,0,33100
+129,"SAMSUNG Galaxy A80 (Phantom Black, 128 GB)",4.4,5392,8.0,128,17.02,48MP + 8MP | 48MP(F2.0) + 8MP(Ultra Wide/F2.2) + TOF (Time-of-Flight) 3D-Depth Rotating Camera,3700,0,0,52000
+130,"SAMSUNG Galaxy A6+ (Blue, 64 GB)",4.4,4215,4.0,64,15.24,16MP + 5MP | 24MP Front Camera,3500,0,0,25600
+131,"SAMSUNG Galaxy Note 20 (Mystic Blue, 256 GB)",4.4,69,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4300,86000,9,77999
+132,"SAMSUNG Galaxy Note 9 (Ocean Blue, 512 GB)",4.6,233,8.0,512,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,93000
+133,"SAMSUNG Galaxy S9 Plus (Midnight Black, 64 GB)",4.5,39062,6.0,64,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,70000
+134,"SAMSUNG Galaxy S10 (Prism Blue, 128 GB)",4.6,1811,8.0,128,15.49,16MP + 12MP | 10MP Front Camera,3400,0,0,71000
+135,"SAMSUNG Galaxy M21 (Iceberg Blue, 64 GB)",4.3,6921,4.0,64,16.26,48MP + 8MP + 5MP | 20MP Front Camera,6000,0,0,14190
+136,"SAMSUNG Galaxy S21 Ultra (Phantom Black, 256 GB)",4.5,493,12.0,256,17.27,108MP + 12MP + 10MP + 10MP | 40MP Front Camera,5000,128999,17,105999
+137,"SAMSUNG Galaxy A10s (Green, 32 GB)",4.4,2601,2.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,8999
+138,"SAMSUNG Galaxy Note 20 (Mystic Bronze, 256 GB)",4.4,69,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4300,86000,9,77999
+139,"SAMSUNG Galaxy S10 (Prism White, 512 GB)",4.6,1811,8.0,512,15.49,16MP + 12MP | 10MP Front Camera,3400,0,0,92000
+140,"SAMSUNG Galaxy M30 (Gradation Black, 128 GB)",4.3,343,6.0,128,16.26,16MP Rear Camera,5000,0,0,16490
+141,"SAMSUNG Galaxy A21s (White, 64 GB)",4.2,20028,4.0,64,16.51,48MP + 8MP + 2MP + 2MP | 13MP Front Camera,5000,0,0,17999
+142,"SAMSUNG Galaxy Note 20 (Mystic Green, 256 GB)",4.4,69,8.0,256,17.02,64MP + 12MP + 12MP | 10MP Front Camera,4300,86000,9,77999
+143,"SAMSUNG Galaxy Note10 Lite (Aura Glow, 128 GB)",4.3,1544,8.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,0,0,41990
+144,"SAMSUNG Galaxy A6 (Gold, 64 GB)",4.4,676,4.0,64,14.22,16MP Rear Camera | 16MP Front Camera,3000,0,0,25500
+145,"SAMSUNG Galaxy A7-2017 (Gold Sand, 32 GB)",3.9,278,3.0,32,14.48,16MP Rear Camera | 16MP Front Camera,3600,0,0,25900
+146,"SAMSUNG Galaxy A20s (Blue, 64 GB)",4.3,1151,4.0,64,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,0,0,14800
+147,"SAMSUNG Galaxy Note 20 Ultra 5G (Mystic Bronze, 256 GB)",4.5,206,12.0,256,17.53,108MP + 12MP + 12MP | 10MP Front Camera,4500,116000,20,91999
+148,"SAMSUNG Galaxy S20 Ultra (Cosmic Gray, 128 GB)",4.3,92,12.0,128,17.53,108 MP + 48 MP + 12 MP + VGA Depth Camera | 40MP Front Camera,5000,0,0,103000
+149,"SAMSUNG Galaxy Note 9 (Metallic Copper, 128 GB)",4.6,2116,6.0,128,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,69900
+150,"SAMSUNG Galaxy A8 Star (Black, 64 GB)",4.3,799,6.0,64,16.0,24MP Rear Camera,3700,0,0,34999
+151,"SAMSUNG Galaxy Note 9 (Ocean Blue, 128 GB)",4.6,2116,6.0,128,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,73645
+152,"SAMSUNG Galaxy A6 (Black, 64 GB)",4.4,676,4.0,64,14.22,16MP Rear Camera | 16MP Front Camera,3000,0,0,16990
+153,"SAMSUNG Galaxy Note 9 (Midnight Black, 512 GB)",4.6,233,8.0,512,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,88030
+154,"SAMSUNG M01 core (Black, 16 GB)",4.0,6917,1.0,16,13.46,8MP Rear Camera | 5MP Front Camera,3000,0,0,4999
+155,"SAMSUNG Galaxy A6+ (Gold, 64 GB)",4.4,4215,4.0,64,15.24,16MP + 5MP | 24MP Front Camera,3500,0,0,21990
+156,"SAMSUNG Galaxy A20 (Deep Blue, 32 GB)",4.4,15529,3.0,32,16.26,13MP + 5MP | 8MP Front Camera,4000,0,0,12900
+157,"SAMSUNG Galaxy A20s (Blue, 32 GB)",4.3,1093,3.0,32,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,0,0,12900
+158,"SAMSUNG Galaxy A30 (Black, 64 GB)",4.4,17708,4.0,64,16.26,16MP + 5MP | 16MP Front Camera,4000,0,0,17500
+159,"SAMSUNG M01 core (Black, 32 GB)",3.9,7716,2.0,32,13.46,8MP Rear Camera | 5MP Front Camera,3000,0,0,5999
+160,"SAMSUNG Galaxy J6 (Blue, 64 GB)",4.5,42223,4.0,64,14.22,13MP Rear Camera | 8MP Front Camera,3000,17108,44,9490
+161,"SAMSUNG Galaxy A8 Star (White, 64 GB)",4.3,799,6.0,64,16.0,24MP Rear Camera,3700,0,0,34999
+162,"SAMSUNG Galaxy S8 Plus (Midnight Black, 128 GB)",4.6,348,6.0,128,15.75,12MP Rear Camera | 8MP Front Camera,3500,0,0,66900
+163,"SAMSUNG Galaxy J5 Prime (Black, 32 GB)",4.3,3360,3.0,32,12.7,13MP Rear Camera | 5MP Front Camera,2400,0,0,13500
+164,"SAMSUNG M01 core (Blue, 32 GB)",3.9,7716,2.0,32,13.46,8MP Rear Camera | 5MP Front Camera,3000,0,0,5999
+165,"SAMSUNG Galaxy J6 (Black, 64 GB)",4.5,42223,4.0,64,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,14990
+166,"SAMSUNG Galaxy J2 2018 (Pink, 16 GB)",4.3,7621,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6799
+167,"SAMSUNG Galaxy A7 (Blue, 64 GB)",4.4,12915,4.0,64,15.24,24MP + 5MP + 8MP | 24MP Front Camera,3300,25379,29,17990
+168,"SAMSUNG Galaxy A8 Plus (Black, 64 GB)",4.2,277,6.0,64,15.24,16MP Rear Camera,3500,27990,10,24990
+170,"SAMSUNG Galaxy J7 Prime (Black, 16 GB)",4.2,19615,3.0,16,13.97,13MP Rear Camera | 8MP Front Camera,3300,0,0,18328
+171,"SAMSUNG Galaxy J8 (Blue, 64 GB)",4.4,19438,4.0,64,15.24,16MP + 5MP | 16MP Front Camera,3500,0,0,18990
+172,"SAMSUNG M01 core (Blue, 16 GB)",4.0,6916,1.0,16,13.46,8MP Rear Camera | 5MP Front Camera,3000,0,0,4999
+173,"SAMSUNG Galaxy A30s (Prism Crush Black, 128 GB)",4.3,4275,4.0,128,16.26,25MP + 5MP + 8MP | 16MP Front Camera,4000,0,0,18199
+174,"SAMSUNG Galaxy J2 2018 (Gold, 16 GB)",4.3,7620,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7500
+175,"SAMSUNG Galaxy J5 Prime (Gold, 32 GB)",4.3,3360,3.0,32,12.7,13MP Rear Camera | 5MP Front Camera,2400,0,0,13500
+176,"SAMSUNG Galaxy A10s (Black, 32 GB)",4.3,2287,3.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,10800
+177,"SAMSUNG Galaxy A10s (Green, 32 GB)",4.4,2600,2.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,8999
+178,"SAMSUNG Galaxy J8 (Black, 64 GB)",4.4,19438,4.0,64,15.24,16MP + 5MP | 16MP Front Camera,3500,0,0,19500
+179,"SAMSUNG Galaxy A50 (Black, 64 GB)",4.4,11327,6.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,24000
+180,"SAMSUNG Galaxy A10 (Blue, 32 GB)",4.4,13098,2.0,32,15.75,13MP Rear Camera | 5MP Front Camera,3400,9157,12,7990
+181,"SAMSUNG Galaxy A6+ (Black, 64 GB)",4.4,4215,4.0,64,15.24,16MP + 5MP | 24MP Front Camera,3500,0,0,21990
+182,"SAMSUNG Galaxy J6 Plus (Blue, 64 GB)",4.3,4948,4.0,64,15.24,13MP + 5MP | 8MP Front Camera,3300,0,0,13600
+183,"SAMSUNG Galaxy A10 (Black, 32 GB)",4.4,13098,2.0,32,15.75,13MP Rear Camera | 5MP Front Camera,3400,9304,14,7990
+184,"SAMSUNG Galaxy J4 (Black, 32 GB)",4.2,338,3.0,32,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,10990
+185,"SAMSUNG Galaxy J7 - 6 (New 2016 Edition) (White, 16 GB)",4.3,77959,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3300,15585,1,15299
+186,"SAMSUNG Galaxy J2 (White, 8 GB)",4.1,20388,1.0,8,11.94,5MP Rear Camera | 2MP Front Camera,2000,0,0,6799
+187,"SAMSUNG Galaxy A20 (Red, 32 GB)",4.4,15529,3.0,32,16.26,13MP + 5MP | 8MP Front Camera,4000,0,0,13099
+188,"SAMSUNG Galaxy J2 Core (Blue, 8 GB)",4.2,10811,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6190
+189,"SAMSUNG Galaxy A10 (Gold, 32 GB)",4.4,13098,2.0,32,15.75,13MP Rear Camera | 5MP Front Camera,3400,0,0,8700
+190,"SAMSUNG Galaxy A20 (Gold, 32 GB)",4.4,15529,3.0,32,16.26,13MP + 5MP | 8MP Front Camera,4000,0,0,12900
+191,"SAMSUNG Galaxy S6 Edge (Black Sapphire, 32 GB)",4.0,1219,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,37299
+192,"SAMSUNG Galaxy A10 (Gold, 32 GB)",4.4,13098,2.0,32,15.75,13MP Rear Camera | 5MP Front Camera,3400,0,0,8700
+193,"SAMSUNG Galaxy A20 (Gold, 32 GB)",4.4,15529,3.0,32,16.26,13MP + 5MP | 8MP Front Camera,4000,0,0,12900
+194,"SAMSUNG Galaxy S6 Edge (Black Sapphire, 32 GB)",4.0,1219,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,37299
+195,"SAMSUNG Galaxy J4 (Gold, 16 GB)",4.3,3073,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,9500
+196,"SAMSUNG Galaxy J2 Core (Gold, 8 GB)",4.2,10811,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6190
+197,"SAMSUNG Galaxy J6 (Gold, 32 GB)",4.4,15792,3.0,32,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,12990
+198,"SAMSUNG Galaxy J2 Core (Black, 8 GB)",4.2,10811,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6200
+199,"SAMSUNG Galaxy J2-2017 (Absolute black, 8 GB)",4.2,4014,1.0,8,11.94,5MP Rear Camera | 2MP Front Camera,2000,0,0,6000
+200,"SAMSUNG Galaxy A6 (Blue, 64 GB)",4.4,676,4.0,64,14.22,16MP Rear Camera | 16MP Front Camera,3000,0,0,16990
+201,"SAMSUNG Galaxy J4 (Blue, 32 GB)",4.2,338,3.0,32,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,13023
+202,"SAMSUNG Galaxy A10 (Red, 32 GB)",4.4,13098,2.0,32,15.75,13MP Rear Camera | 5MP Front Camera,3400,0,0,8700
+203,"SAMSUNG Galaxy J7 Duo (Gold, 32 GB)",4.3,2798,4.0,32,13.97,13MP + 5MP | 8MP Front Camera,3000,0,0,17889
+204,"SAMSUNG Galaxy J6 (Gold, 64 GB)",4.5,42223,4.0,64,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,14990
+205,"SAMSUNG Galaxy S10 Plus (Ceramic White, 1 TB)",4.5,24,12.0,1000,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,0,0,117990
+206,"SAMSUNG Galaxy J4 Plus (Gold, 32 GB)",4.3,4493,2.0,32,15.24,13MP Rear Camera | 5MP Front Camera,3300,0,0,9499
+207,"SAMSUNG Galaxy S10 Plus (Ceramic Black, 512 GB)",4.6,1206,8.0,512,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,0,0,91900
+208,"SAMSUNG Galaxy On7 (Black, 8 GB)",4.2,191824,1.5,8,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,9977
+209,"SAMSUNG Galaxy A8 Plus (Gold, 64 GB)",4.2,277,6.0,64,15.24,16MP Rear Camera,3500,0,0,29990
+210,"SAMSUNG Galaxy J4 (Gold, 32 GB)",4.2,338,3.0,32,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,10990
+211,"SAMSUNG Galaxy J6 (Black, 32 GB)",4.4,15792,3.0,32,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,12990
+212,"SAMSUNG Galaxy A30 (Blue, 64 GB)",4.4,17708,4.0,64,16.26,16MP + 5MP | 16MP Front Camera,4000,0,0,18000
+213,"SAMSUNG Galaxy A20 (Black, 32 GB)",4.4,15529,3.0,32,16.26,13MP + 5MP | 8MP Front Camera,4000,12900,10,11490
+214,"SAMSUNG Galaxy J6 Plus (Red, 64 GB)",4.3,4948,4.0,64,15.24,13MP + 5MP | 8MP Front Camera,3300,0,0,13600
+215,"SAMSUNG Galaxy J2 Pro (Gold, 16 GB)",4.2,7003,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,10480
+216,"SAMSUNG Galaxy A50 (White, 64 GB)",4.4,11327,6.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,24000
+217,"SAMSUNG Galaxy J5 Prime (Gold, 16 GB)",4.0,1205,2.0,16,12.7,13MP Rear Camera | 5MP Front Camera,2400,0,0,14500
+218,"SAMSUNG Galaxy J6 (Blue, 32 GB)",4.4,15792,3.0,32,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,12990
+219,"SAMSUNG Galaxy J4 (Blue, 16 GB)",4.3,3073,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,9500
+220,"SAMSUNG Galaxy J7 Duo (Black, 32 GB)",4.3,2798,4.0,32,13.97,13MP + 5MP | 8MP Front Camera,3000,0,0,17962
+221,"SAMSUNG Galaxy J5 Prime (Black, 16 GB)",4.0,1205,2.0,16,12.7,13MP Rear Camera | 5MP Front Camera,2400,0,0,14500
+222,"SAMSUNG Galaxy J4 (Black, 16 GB)",4.3,3073,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,8990
+223,"SAMSUNG Galaxy J2 Pro (Black, 16 GB)",4.2,7003,2.0,16,12.7,8MP Rear Camera,2600,0,0,10480
+224,"SAMSUNG Galaxy J7 Nxt (Black, 32 GB)",4.3,2227,3.0,32,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,14995
+225,"SAMSUNG Galaxy J7 Nxt (Black, 16 GB)",4.4,9964,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,11995
+226,"SAMSUNG Galaxy J8 (Gold, 64 GB)",4.4,19438,4.0,64,15.24,16MP + 5MP | 16MP Front Camera,3500,0,0,19500
+227,"SAMSUNG Galaxy A30 (White, 64 GB)",4.4,17708,4.0,64,16.26,16MP + 5MP | 16MP Front Camera,4000,0,0,18000
+228,"SAMSUNG Galaxy J7 - 6 (New 2016 Edition) (Black, 16 GB)",4.3,77959,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3300,15014,8,13800
+229,"SAMSUNG Galaxy J2 2018 (Black, 16 GB)",4.3,7621,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7999
+230,"SAMSUNG Galaxy J7 Nxt (Gold, 16 GB)",4.4,9964,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,10995
+231,"SAMSUNG Galaxy J6 Plus (Black, 64 GB)",4.3,4948,4.0,64,15.24,13MP + 5MP | 8MP Front Camera,3300,0,0,14000
+232,"SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",4.3,305200,6.0,128,16.26,64MP + 8MP + 5MP | 32MP Front Camera,6000,20999,30,14499
+233,"SAMSUNG Galaxy S9 Plus (Burgundy Red, 64 GB)",4.5,39062,6.0,64,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,70000
+234,"SAMSUNG M02s (Red, 64 GB)",4.2,726,4.0,64,16.51,13MP + 2MP + 2MP | 5MP Front Camera,5000,10490,4,9999
+235,"SAMSUNG Galaxy M21 (Midnight Blue, 128 GB)",4.2,1417,6.0,128,16.26,48MP + 8MP + 5MP | 20MP Front Camera,6000,0,0,15499
+236,"SAMSUNG Galaxy M02 (Red, 32 GB)",4.1,470,2.0,32,16.64,13MP + 2MP | 5MP Front Camera,5000,7535,0,7475
+237,"SAMSUNG Galaxy A71 (Prism Crush Black, 128 GB)",4.4,6378,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,34999,21,27499
+238,"SAMSUNG Galaxy A32 (Awesome Violet, 128 GB)",4.2,1285,6.0,128,16.26,64MP + 8MP + 5MP + 5MP | 20MP Front Camera,5000,24999,18,20499
+239,"SAMSUNG Galaxy M30s (White, 64 GB)",4.3,4133,4.0,64,16.26,48MP Rear Camera | 16MP Front Camera,6000,15500,7,14399
+240,"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.4,2601,2.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,10000
+241,"SAMSUNG Galaxy A10s (Black, 32 GB)",4.4,2601,2.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,10000
+242,"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.3,4713,6.0,128,17.02,64MP + 5MP + 8MP | 32MP Front Camera,4500,31000,41,17999
+243,"SAMSUNG Z2 (Black, 8 GB)",3.6,12852,1.0,8,10.16,5MP Rear Camera,1500,0,0,4790
+244,"SAMSUNG Galaxy A20s (Green, 64 GB)",4.3,1151,4.0,64,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,14900,8,13695
+245,"SAMSUNG Galaxy S10 Lite (Prism White, 512 GB)",4.5,12693,8.0,512,17.02,48MP + 12MP + 5MP | 32MP Front Camera,4500,51000,9,45999
+246,"SAMSUNG Galaxy A7 2016 Edition (Gold, 16 GB)",4.1,1535,3.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3300,0,0,17490
+247,"SAMSUNG Galaxy A2 Core (Gold, 16 GB)",4.2,3279,1.0,16,12.7,5MP Rear Camera | 5MP Front Camera,2600,0,0,5900
+248,"SAMSUNG Galaxy J1 (4G) (White, 8 GB)",4.0,1645,1.0,8,11.43,5MP Rear Camera | 2MP Front Camera,2050,0,0,7550
+249,"SAMSUNG Galaxy M30s (Black, 64 GB)",4.3,4133,4.0,64,16.26,48MP Rear Camera,6000,15500,8,14150
+250,"SAMSUNG Galaxy J2 Core (Blue, 16 GB)",4.2,10811,1.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6999
+251,"SAMSUNG Galaxy J2 Core (Gold, 16 GB)",4.2,10811,1.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6999
+252,"SAMSUNG Galaxy M20 (Charcoal Black, 32 GB)",4.3,2021,3.0,32,16.0,13MP Rear Camera,5000,11290,3,10848
+253,"SAMSUNG Galaxy M20 (Charcoal Black, 64 GB)",4.3,3328,4.0,64,16.0,13MP Rear Camera,5000,0,0,11990
+254,"SAMSUNG Galaxy A70 (Black, 128 GB)",4.3,5303,6.0,128,17.02,32MP + 5MP + 8MP | 32MP Front Camera,4500,0,0,30900
+255,"SAMSUNG Galaxy M30s (White, 128 GB)",4.1,715,6.0,128,16.26,48MP + 48MP + 8MP + 5MP | 16MP Front Camera,6000,0,0,16999
+256,"SAMSUNG Galaxy A71 (Prism Crush Silver, 128 GB)",4.4,6378,8.0,128,17.02,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,34999,21,27499
+257,"SAMSUNG Galaxy M10 (Ocean Blue, 32 GB)",4.3,2237,3.0,32,15.8,13MP Rear Camera,3400,9290,6,8690
+258,"SAMSUNG Galaxy J7 Prime 2 (Gold, 32 GB)",4.3,2334,3.0,32,13.97,13MP Rear Camera | 13MP Front Camera,3300,0,0,14990
+259,"SAMSUNG Galaxy A70 (Blue, 128 GB)",4.3,5303,6.0,128,17.02,32MP + 5MP + 8MP | 32MP Front Camera,4500,0,0,30900
+260,"SAMSUNG Galaxy S10 Lite (Prism Blue, 128 GB)",4.5,12693,8.0,128,17.02,48MP + 12MP + 5MP | 32MP Front Camera,4500,43999,6,40999
+261,"SAMSUNG Galaxy A30s (Prism Crush White, 64 GB)",4.3,4275,4.0,64,16.26,25MP + 5MP + 8MP | 16MP Front Camera,4000,18900,15,15899
+262,"SAMSUNG Galaxy S21 (Phantom Violet, 256 GB)",4.4,112,8.0,256,15.75,64MP + 12MP + 12MP | 10MP Front Camera,4000,87999,15,73999
+263,"SAMSUNG Galaxy Note 10 Plus (Aura Black, 256 GB)",4.6,5191,12.0,256,17.27,12MP (Dual Aperture) + 12MP + 16MP + TOF | 10MP Front Camera,4300,85000,29,59999
+264,"SAMSUNG Galaxy Core Prime G361 Dual Sim - White (White, 8 GB)",3.6,17,1.0,8,11.43,5MP Rear Camera | 2MP Front Camera,2000,0,0,7999
+265,"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.3,4713,6.0,128,17.02,64MP + 5MP + 8MP | 32MP Front Camera,4500,31000,41,17999
+266,"SAMSUNG Galaxy J5 - 6 (New 2016 Edition) (Black, 16 GB)",4.2,108281,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,3100,0,0,10990
+267,"SAMSUNG Galaxy J5 - 6 (New 2016 Edition) (White, 16 GB)",4.2,108281,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,3100,0,0,10990
+268,"SAMSUNG Galaxy A70 (White, 128 GB)",4.3,5303,6.0,128,17.02,32MP + 5MP + 8MP | 32MP Front Camera,4500,0,0,30900
+269,"SAMSUNG Galaxy S3 Neo (Pebble Blue, 16 GB)",4.2,13441,1.5,16,12.19,8MP Rear Camera | 1.9MP Front Camera,2100,0,0,17000
+270,"SAMSUNG Galaxy Star 2 (Iris Charcoal, 4 GB)",3.9,713,0.5,4,8.89,2MP Rear Camera,1300,0,0,4890
+271,"SAMSUNG Galaxy M01s  (Light Blue, 32 GB)",4.2,525,3.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,9330,0,9290
+272,"SAMSUNG Galaxy S20+ (Cosmic Black, 128 GB)",4.4,18874,8.0,128,17.02,64 MP + 12 MP +12 MP + VGA Depth Camera | 10MP Front Camera,4500,83000,33,54999
+273,"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",4.4,460,8.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,31999,12,27999
+274,"SAMSUNG Galaxy Star Advance (White, 4 GB)",3.8,889,0.5,4,10.92,3MP Rear Camera,1800,0,0,5499
+275,"SAMSUNG Galaxy A20s (Black, 32 GB)",4.3,1093,3.0,32,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,12900,10,11599
+276,"SAMSUNG Galaxy J1 (Blue, 4 GB)",4.0,632,0.5,4,10.92,5MP Rear Camera | 2MP Front Camera,1850,0,0,7454
+277,"SAMSUNG Galaxy A51 (Prism Crush White, 128 GB)",4.3,3749,8.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,29999,25,22499
+278,"SAMSUNG Galaxy A2 Core (Blue, 16 GB)",4.2,3279,1.0,16,12.7,5MP Rear Camera | 5MP Front Camera,2600,0,0,5900
+279,"SAMSUNG Galaxy Alpha (Charcoal Black, 32 GB)",3.6,364,2.0,32,11.94,12MP Rear Camera | 2.1MP Front Camera,1860,0,0,22389
+280,"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",4.3,527,6.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,30499,13,26499
+281,"SAMSUNG Galaxy A2 Core (Dark Gray, 16 GB)",4.2,3279,1.0,16,12.7,5MP Rear Camera | 5MP Front Camera,2600,0,0,5900
+282,"SAMSUNG Galaxy Alpha (Frosted Gold, 32 GB)",3.6,364,2.0,32,11.94,12MP Rear Camera | 2.1MP Front Camera,1860,0,0,42000
+283,"SAMSUNG Galaxy A50 (White, 64 GB)",4.3,67849,4.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,21000
+284,"SAMSUNG Galaxy A7 2016 Edition (White, 16 GB)",4.1,1535,3.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3300,0,0,20700
+285,"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",4.3,527,6.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,30499,13,26499
+286,"SAMSUNG Galaxy A20s (Green, 32 GB)",4.3,1093,3.0,32,16.51,13MP + 8MP + 5MP | 8MP Front Camera,4000,12900,10,11599
+287,"SAMSUNG Galaxy On Nxt (Black, 16 GB)",4.3,365765,3.0,16,13.97,13MP Rear Camera | 8MP Front Camera,3300,0,0,11200
+288,"SAMSUNG Galaxy A51 (Prism Crush White, 128 GB)",4.3,9563,6.0,128,16.51,48MP + 12MP + 5MP + 5MP | 32MP Front Camera,4000,25999,19,20999
+289,"SAMSUNG Galaxy Note10 Lite (Aura Red, 128 GB)",4.4,411,6.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,43000,11,37999
+290,"SAMSUNG Galaxy J1 (4G) (Gold, 8 GB)",4.0,1645,1.0,8,11.43,5MP Rear Camera,2050,0,0,7550
+291,"SAMSUNG Galaxy A10s (Green, 32 GB)",4.3,2287,3.0,32,15.75,13MP + 2MP | 8MP Front Camera,4000,0,0,11000
+292,"SAMSUNG Galaxy Note 5 (Dual Sim) (Gold Platinum, 32 GB)",4.1,134,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,46300
+293,"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",4.4,460,8.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,31999,12,27999
+294,"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,527,6.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,30499,13,26499
+295,"SAMSUNG Galaxy A9 (Bubblegum Pink, 128 GB)",4.4,913,6.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,0,0,36000
+296,"SAMSUNG Galaxy A8 (White, 32 GB)",4.2,1216,2.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3050,0,0,33500
+297,"SAMSUNG Galaxy Note10 Lite (Aura Glow, 128 GB)",4.4,411,6.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,43000,11,37999
+298,"SAMSUNG Galaxy J2 Ace (Silver, 8 GB)",4.1,1228,1.5,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8090
+299,"SAMSUNG Galaxy Star 2 (White, 4 GB)",3.9,713,0.5,4,8.89,2MP Rear Camera,1300,0,0,4890
+300,"SAMSUNG Galaxy A30s (Prism Crush Violet, 64 GB)",4.3,4275,4.0,64,16.26,25MP + 5MP + 8MP | 16MP Front Camera,4000,0,0,18900
+301,"SAMSUNG Galaxy Note 5 (Silver, 32 GB)",3.9,380,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,56999
+302,"SAMSUNG Galaxy On Nxt (Gold, 16 GB)",4.3,365765,3.0,16,13.97,13MP Rear Camera | 8MP Front Camera,3300,0,0,11200
+303,"SAMSUNG Galaxy M30s (Black, 128 GB)",4.1,715,6.0,128,16.26,48MP + 48MP + 8MP + 5MP | 16MP Front Camera,6000,0,0,16999
+304,"SAMSUNG Galaxy J7 (White, 16 GB)",4.3,40228,1.5,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,11700
+305,"SAMSUNG Galaxy Note 5 (Silver Titanium, 32 GB)",3.9,380,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,38900
+306,"SAMSUNG Galaxy S Duos 3 (Ceramic White, 4 GB)",4.0,5911,0.5,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,6048
+307,"SAMSUNG Galaxy Note 5 (Dual Sim) (Black Sapphire, 32 GB)",4.1,134,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,46300
+308,"SAMSUNG On7 Pro (Gold, 16 GB)",4.1,1484,2.0,16,13.97,13MP Rear Camera,3000,9499,36,5990
+309,"SAMSUNG Galaxy A9 (Lemonade Blue, 128 GB)",4.4,913,6.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,0,0,36000
+310,"SAMSUNG Galaxy S9 (Midnight Black, 128 GB)",4.4,30544,4.0,128,14.73,12MP Rear Camera | 8MP Front Camera,3000,0,0,61900
+311,"SAMSUNG Galaxy Grand 2 (Gold, 8 GB)",4.1,4687,1.5,8,13.34,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,15000
+312,"SAMSUNG Galaxy A70s (Prism Crush Black, 128 GB)",4.3,4713,6.0,128,17.02,64MP + 5MP + 8MP | 32MP Front Camera,4500,31000,41,17999
+313,"SAMSUNG Galaxy S Duos 3 (Charcoal Grey, 4 GB)",4.0,5911,0.5,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,6499
+314,"SAMSUNG Galaxy J5 - 6 (New 2016 Edition) (White, 16 GB)",4.2,108280,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,3100,0,0,10990
+315,"SAMSUNG Galaxy J5 - 6 (New 2016 Edition) (Black, 16 GB)",4.2,108280,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,3100,0,0,10990
+316,"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",4.4,460,8.0,128,16.51,64MP + 12MP + 5MP + 5MP | 32MP Front Camera,4500,31999,12,27999
+317,"SAMSUNG Galaxy A9 (Bubblegum Pink, 128 GB)",4.4,913,6.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,0,0,36000
+318,"SAMSUNG Galaxy J1 (4G) (Gold, 8 GB)",4.0,1645,1.0,8,11.43,5MP Rear Camera,2050,0,0,7550
+319,"SAMSUNG Galaxy Note10 Lite (Aura Glow, 128 GB)",4.4,412,6.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,43000,11,37999
+320,"SAMSUNG Galaxy A7 2016 Edition (White, 16 GB)",4.1,1535,3.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3300,0,0,20700
+321,"SAMSUNG Galaxy Star 2 (White, 4 GB)",3.9,713,0.5,4,8.89,2MP Rear Camera,1300,0,0,4890
+322,"SAMSUNG Galaxy Note 5 (Dual Sim) (Gold Platinum, 32 GB)",4.1,134,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,46300
+323,"SAMSUNG Galaxy A30s (Prism Crush Violet, 64 GB)",4.3,4275,4.0,64,16.26,25MP + 5MP + 8MP | 16MP Front Camera,4000,0,0,18900
+324,"SAMSUNG Galaxy Note 5 (Silver, 32 GB)",3.9,380,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,56999
+325,"SAMSUNG Galaxy On Nxt (Gold, 16 GB)",4.3,365763,3.0,16,13.97,13MP Rear Camera | 8MP Front Camera,3300,0,0,11200
+326,"SAMSUNG Galaxy M30s (Black, 128 GB)",4.1,715,6.0,128,16.26,48MP + 48MP + 8MP + 5MP | 16MP Front Camera,6000,0,0,16999
+327,"SAMSUNG Galaxy S Duos 3 (Ceramic White, 4 GB)",4.0,5911,0.5,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,6048
+328,"SAMSUNG Galaxy Note 5 (Dual Sim) (Black Sapphire, 32 GB)",4.1,134,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,46300
+329,"SAMSUNG On7 Pro (Gold, 16 GB)",4.1,1484,2.0,16,13.97,13MP Rear Camera,3000,9499,36,5990
+330,"SAMSUNG Galaxy A9 (Lemonade Blue, 128 GB)",4.4,913,6.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,0,0,36000
+331,"SAMSUNG Galaxy S9 (Midnight Black, 128 GB)",4.4,30544,4.0,128,14.73,12MP Rear Camera | 8MP Front Camera,3000,0,0,61900
+332,"SAMSUNG Galaxy Grand 2 (Gold, 8 GB)",4.1,4687,1.5,8,13.34,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,15000
+333,"SAMSUNG Galaxy On6 (Blue, 64 GB)",4.3,101817,4.0,64,14.22,13MP Rear Camera | 8MP Front Camera,3000,0,0,17600
+334,"SAMSUNG Galaxy Note10 Lite (Aura Red, 128 GB)",4.3,1544,8.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,45000,11,39999
+335,"SAMSUNG Galaxy Note10 Lite (Aura Red, 128 GB)",4.4,412,6.0,128,17.02,12MP + 12MP + 12MP | 32MP Front Camera,4500,43000,11,37999
+336,"SAMSUNG Galaxy J5 (Black, 8 GB)",4.3,24866,1.5,8,12.7,13MP Rear Camera | 5MP Front Camera,2600,0,0,7990
+337,"SAMSUNG Galaxy J7 (Gold, 16 GB)",4.3,40228,1.5,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,11700
+338,"SAMSUNG Galaxy J7 Prime 2 (Black, 32 GB)",4.3,2334,3.0,32,13.97,13MP Rear Camera | 13MP Front Camera,3300,0,0,14990
+339,"SAMSUNG Galaxy A30s (Prism Crush White, 128 GB)",4.3,4275,4.0,128,16.26,25MP + 5MP + 8MP | 16MP Front Camera,4000,0,0,19900
+340,"SAMSUNG Galaxy A7 (Black, 64 GB)",4.4,12915,4.0,64,15.24,24MP + 5MP + 8MP | 24MP Front Camera,3300,0,0,22300
+341,"SAMSUNG Galaxy J4 Plus (Blue, 32 GB)",4.3,4493,2.0,32,15.24,13MP Rear Camera | 5MP Front Camera,3300,0,0,9000
+342,"SAMSUNG Galaxy J1 (White, 4 GB)",4.0,632,0.5,4,10.92,5MP Rear Camera | 2MP Front Camera,1850,0,0,6190
+343,"SAMSUNG Galaxy J2 (Black, 8 GB)",4.1,20388,1.0,8,11.94,5MP Rear Camera | 2MP Front Camera,2000,0,0,7400
+344,"SAMSUNG Galaxy A80 (Ghost White, 128 GB)",4.4,5392,8.0,128,17.02,48MP + 8MP | 48MP(F2.0) + 8MP(Ultra Wide/F2.2) + TOF (Time-of-Flight) 3D-Depth Rotating Camera,3700,0,0,29899
+345,"SAMSUNG Galaxy Note 10 Plus (Aura Glow, 256 GB)",4.6,5191,12.0,256,17.27,12MP (Dual Aperture) + 12MP + 16MP + TOF | 10MP Front Camera,4300,85000,29,59999
+346,"SAMSUNG Galaxy Note 3 (Jet Black, 32 GB)",4.1,4476,3.0,32,14.48,13MP Rear Camera | 2MP Front Camera,3200,0,0,21999
+347,"SAMSUNG Galaxy J5 (Gold, 8 GB)",4.3,24866,1.5,8,12.7,13MP Rear Camera | 5MP Front Camera,2600,0,0,10490
+348,"SAMSUNG Galaxy J4 Plus (Black, 32 GB)",4.3,4493,2.0,32,15.24,13MP Rear Camera | 5MP Front Camera,3300,0,0,9000
+349,"SAMSUNG Tizen Z3 (Silver, 8 GB)",3.3,5190,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,5890
+350,"SAMSUNG Galaxy S7 Edge (Silver Titanium, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,41900
+351,"SAMSUNG Z1 (White, 4 GB)",3.5,3207,0.8,4,10.16,3.1MP Rear Camera | 0.3MP Front Camera,1500,0,0,3990
+352,"SAMSUNG Galaxy A50 (Black, 64 GB)",4.3,67849,4.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,21000
+353,"SAMSUNG Sm-G361Hhadins (Charcoal Gray, 8 GB)",3.0,3,1.0,8,11.43,5MP Rear Camera,2000,0,0,8999
+354,"SAMSUNG Galaxy A50 (Blue, 64 GB)",4.3,67849,4.0,64,16.26,25MP + 5MP + 8MP | 25MP Front Camera,4000,0,0,21000
+355,"SAMSUNG Galaxy M20 (Ocean Blue, 32 GB)",4.3,2021,3.0,32,16.0,13MP + 5MP | 8MP Front Camera,5000,11290,2,10990
+356,"SAMSUNG Galaxy S20 Ultra (Cosmic Black, 128 GB)",4.3,92,12.0,128,17.53,108 MP + 48 MP + 12 MP + VGA Depth Camera | 40MP Front Camera,5000,0,0,103000
+357,"SAMSUNG Galaxy S10e (Prism Black, 128 GB)",4.5,675,6.0,128,14.73,16MP + 12MP | 10MP Front Camera,3100,0,0,59000
+358,"SAMSUNG Galaxy S10 Lite (Prism White, 128 GB)",4.5,12693,8.0,128,17.02,48MP + 12MP + 5MP | 32MP Front Camera,4500,43999,6,40999
+359,"SAMSUNG Galaxy J5 - 6 (New 2016 Edition) (Gold, 16 GB)",4.2,108281,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,3100,0,0,10990
+360,"SAMSUNG Galaxy Note 5 (Silver Titanium, 64 GB)",3.9,380,4.0,64,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,39900
+361,"SAMSUNG Galaxy S4 Zoom (White, 8 GB)",3.8,216,1.5,8,10.92,16MP Rear Camera | 1.9MP Front Camera,2330,0,0,15990
+362,"SAMSUNG Galaxy S6 Edge+ (Gold Platinum, 32 GB)",4.2,159,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,61988,54,28000
+363,"SAMSUNG Galaxy A80 (Angel Gold, 128 GB)",4.4,5392,8.0,128,17.02,48MP + 8MP | 48MP(F2.0) + 8MP(Ultra Wide/F2.2) + TOF (Time-of-Flight) 3D-Depth Rotating Camera,3700,0,0,29998
+364,"SAMSUNG Galaxy S7 (Black Onyx, 32 GB)",4.4,31872,4.0,32,12.95,12MP Rear Camera | 5MP Front Camera,3000,0,0,24999
+365,"SAMSUNG Galaxy E7 (Blue, 16 GB)",4.3,1424,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2950,0,0,18340
+366,"SAMSUNG Galaxy S6 Edge (Black, 64 GB)",4.0,1219,3.0,64,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,39999
+367,"SAMSUNG Galaxy Grand 2 (White, 8 GB)",4.1,4687,1.5,8,13.31,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,10990
+368,"SAMSUNG Galaxy Grand Quattro (Ceramic White, 8 GB)",4.0,3152,1.0,8,11.94,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,6999
+369,"SAMSUNG Galaxy Trend (Midnight Black, 4 GB)",3.6,1945,0.5,4,10.16,3MP Rear Camera,1500,0,0,4999
+370,"SAMSUNG Galaxy E5 (Black, 16 GB)",4.2,1011,1.5,16,12.7,8MP Rear Camera | 5MP Front Camera,2400,0,0,9890
+371,"SAMSUNG Galaxy S3 Neo (Black, 16 GB)",4.2,13441,1.5,16,12.19,8MP Rear Camera | 1.9MP Front Camera,2100,0,0,13499
+372,"SAMSUNG Galaxy Note Edge (Frost White, 32 GB)",3.3,182,3.0,32,14.22,16MP Rear Camera | 3.7MP Front Camera,3000,0,0,30000
+373,"SAMSUNG Galaxy E7 (White, 16 GB)",4.3,1424,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2950,0,0,12999
+374,"SAMSUNG Tizen Z3 (Gold, 8 GB)",3.3,5190,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,4990
+375,"SAMSUNG Grand Prime (Grey, 8 GB)",4.0,2195,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8500
+376,"SAMSUNG Galaxy S Duos 2 (Pure White, 4 GB)",4.0,11623,0.7,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,5999
+377,"SAMSUNG Galaxy Note 5 Dual (Gold Platinum, 32 GB)",4.2,118,4.0,32,14.48,16MP Rear Camera,3000,0,0,32990
+378,"SAMSUNG Galaxy S10 Plus (Prism Blue, 128 GB)",4.6,1206,8.0,128,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,72500,32,49000
+379,"SAMSUNG Z1 (Wine Red, 4096 MB)",3.5,3207,0.8,4,8.89,3.1MP Rear Camera | 0.3MP Front Camera,1500,0,0,5555
+380,"SAMSUNG Galaxy Core 2 (Black, 4 GB)",3.9,3345,0.8,4,11.43,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,5920
+381,"SAMSUNG Galaxy S6 (White Pearl, 32 GB)",4.0,666,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2550,0,0,24500
+382,"SAMSUNG Galaxy Note 3 Neo (White, 16 GB)",4.2,2030,2.0,16,13.97,8MP Rear Camera | 2MP Front Camera,3100,0,0,11250
+383,"SAMSUNG Galaxy S6 Edge+ (Silver Titanium, 32 GB)",4.2,159,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,34999
+384,"SAMSUNG Galaxy S4 Mini (White Frost, 8 GB)",3.8,1241,1.5,8,10.85,8MP Rear Camera | 1.9MP Front Camera,1900,0,0,14000
+385,"SAMSUNG Galaxy S21 (Phantom White, 128 GB)",4.4,112,8.0,128,15.75,64MP + 12MP + 12MP | 10MP Front Camera,4000,83999,16,69999
+386,"SAMSUNG Galaxy S5 (Shimmery White, 16 GB)",3.9,11414,2.0,16,12.95,16MP Rear Camera | 2MP Front Camera,2800,0,0,5999
+388,"SAMSUNG Galaxy A6 (Black, 32 GB)",4.4,676,4.0,32,14.22,16MP Rear Camera | 16MP Front Camera,3000,22990,45,12499
+389,"SAMSUNG On5 Pro (Black, 16 GB)",4.2,365,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,6990
+390,"SAMSUNG Galaxy S20 Ultra (Cosmic Black, 128 GB)",4.3,92,12.0,128,17.53,108 MP + 48 MP + 12 MP + VGA Depth Camera | 40MP Front Camera,5000,0,0,103000
+391,"SAMSUNG Galaxy Note 9 (Metallic Copper, 512 GB)",4.6,233,8.0,512,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,93000
+392,"SAMSUNG Galaxy Note 10 Plus (Aura White, 256 GB)",4.6,5190,12.0,256,17.27,12MP (Dual Aperture) + 12MP + 16MP + TOF | 10MP Front Camera,4300,85000,29,59999
+393,"SAMSUNG Galaxy M21 (Iceberg Blue, 128 GB)",4.2,1417,6.0,128,16.26,48MP Rear Camera,6000,0,0,15990
+394,"SAMSUNG Galaxy A50s (Prism Crush Violet, 128 GB)",4.3,47141,4.0,128,16.26,48MP + 5MP + 8MP | 32MP Front Camera,4000,24900,39,14999
+395,"SAMSUNG Galaxy S9 Plus (Coral Blue, 128 GB)",4.5,39062,6.0,128,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,68900
+396,"SAMSUNG Galaxy S3 Neo (Marble White, 16 GB)",4.2,13441,1.5,16,12.19,8MP Rear Camera | 1.9MP Front Camera,2100,0,0,22140
+397,"SAMSUNG Galaxy Note 4 (Blossom Pink, 32 GB)",4.1,4251,3.0,32,14.48,16MP Rear Camera | 3.7MP Front Camera,3220,0,0,39999
+398,"SAMSUNG Galaxy Fold 2 (Mystic Black, 256 GB)",4.3,6,12.0,256,19.3,12MP + 12MP + 12MP,4500,189999,28,134999
+399,"SAMSUNG Galaxy A5-2017 (Black Sky, 32 GB)",4.1,637,3.0,32,13.21,16MP Rear Camera | 16MP Front Camera,3000,0,0,22900
+400,"SAMSUNG Galaxy S9 Plus (Coral Blue, 64 GB)",4.5,39062,6.0,64,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,70000
+401,"SAMSUNG Galaxy S9 Plus (Sunrise Gold, 128 GB)",4.5,39062,6.0,128,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,68900
+402,"SAMSUNG Galaxy A5 (Champagne Gold, 16 GB)",4.1,1975,2.0,16,12.7,13MP Rear Camera | 5MP Front Camera,2300,0,0,17990
+403,"SAMSUNG Galaxy A5 (Midnight Black, 16 GB)",4.1,1975,2.0,16,12.7,13MP Rear Camera | 5MP Front Camera,2300,0,0,17990
+404,"SAMSUNG Galaxy S9 Plus (Midnight Black, 128 GB)",4.5,39062,6.0,128,15.75,12MP + 12MP | 8MP Front Camera,3500,0,0,68900
+405,"SAMSUNG Galaxy A9 (Lemonade Blue, 128 GB)",4.3,569,8.0,128,16.0,24MP + 5MP + 10MP + 8MP | 24MP Front Camera,3800,0,0,39000
+406,"SAMSUNG Z4 (Gold, 8 GB)",3.5,1215,1.0,8,11.43,5MP Rear Camera | 5MP Front Camera,2050,0,0,6200
+407,"SAMSUNG Galaxy Pocket Neo (Metallic Silver, 4 GB)",3.9,1375,0.5,4,7.62,2MP Rear Camera,1200,0,0,5000
+408,"SAMSUNG Galaxy S9 (Coral Blue, 64 GB)",4.4,30544,4.0,64,14.73,12MP Rear Camera | 8MP Front Camera,3000,0,0,62500
+409,"SAMSUNG Galaxy Note 9 (Alpine White, 128 GB)",4.6,2116,6.0,128,16.26,12MP + 12MP | 8MP Front Camera,4000,0,0,73600
+410,"SAMSUNG Galaxy S5 (Electric Blue, 16 GB)",3.9,11414,2.0,16,12.95,16MP Rear Camera | 2MP Front Camera,2800,0,0,21999
+411,"SAMSUNG Galaxy A9 Pro (Gold, 32 GB)",4.3,3421,4.0,32,15.24,16MP Rear Camera | 8MP Front Camera,5000,0,0,19980
+412,"SAMSUNG Galaxy On8 (Black, 64 GB)",4.4,79827,4.0,64,15.24,16MP + 5MP | 16MP Front Camera,3500,0,0,19990
+413,"SAMSUNG Galaxy A8 (Gold, 32 GB)",4.2,1216,2.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3050,0,0,25990
+414,"SAMSUNG Galaxy S8 (Burgundy Red, 64 GB)",4.6,31088,4.0,64,14.73,12MP Rear Camera | 8MP Front Camera,3000,0,0,49990
+415,"SAMSUNG Galaxy A3 (Pearl White, 16 GB)",4.0,1792,1.0,16,11.43,8MP Rear Camera | 5MP Front Camera,1900,0,0,10800
+416,"SAMSUNG Galaxy A5-2017 (Gold Sand, 32 GB)",4.1,637,3.0,32,13.21,16MP Rear Camera | 16MP Front Camera,3000,0,0,22900
+417,"SAMSUNG Galaxy A8 (Black, 32 GB)",4.2,1216,2.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3050,0,0,25990
+418,"SAMSUNG Galaxy A9 Pro (Black, 32 GB)",4.3,3421,4.0,32,15.24,16MP Rear Camera | 8MP Front Camera,5000,0,0,22900
+419,"SAMSUNG Galaxy S6 Edge (White Pearl, 32 GB)",4.0,1219,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,44900
+420,"SAMSUNG Galaxy E5 (Brown, 16 GB)",4.2,1011,1.5,16,12.7,8MP Rear Camera | 5MP Front Camera,2400,0,0,20400
+421,"SAMSUNG Galaxy M10S (Metallic Blue, 32 GB)",4.4,918,3.0,32,16.26,13MP Rear Camera,4000,10000,10,8990
+422,"SAMSUNG Galaxy J2 - 2016 (Black, 8 GB)",4.0,3397,1.5,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7200
+423,"SAMSUNG Galaxy S10 (Prism White, 128 GB)",4.6,1811,8.0,128,15.49,16MP + 12MP | 10MP Front Camera,3400,0,0,71000
+424,"SAMSUNG Z2 (Gold, 8 GB)",3.6,12852,1.0,8,10.16,5MP Rear Camera,1500,0,0,4790
+425,"SAMSUNG Galaxy S21 (Phantom Gray, 256 GB)",4.4,112,8.0,256,15.75,64MP + 12MP + 12MP | 10MP Front Camera,4000,87999,15,73999
+426,"SAMSUNG Galaxy A9 Pro (White, 32 GB)",4.3,3421,4.0,32,15.24,16MP Rear Camera | 8MP Front Camera,5000,0,0,26900
+427,"SAMSUNG Galaxy M10S (Stainless Black, 32 GB)",4.4,918,3.0,32,16.26,13MP Rear Camera,4000,10000,9,9100
+428,"SAMSUNG Galaxy Note 10 (Aura Black, 256 GB)",4.5,270,8.0,256,16.0,12MP (Dual Aperture) + 12MP + 16MP | 10MP Front Camera,3500,75000,1,73600
+429,"SAMSUNG Galaxy S4 (White Frost, 16 GB)",3.9,7152,2.0,16,12.7,13MP Rear Camera | 2MP Front Camera,2600,0,0,40690
+430,"SAMSUNG Galaxy On8 (Blue, 64 GB)",4.4,79827,4.0,64,15.24,16MP + 5MP | 16MP Front Camera,3500,0,0,19990
+431,"SAMSUNG Galaxy J7 (Black, 16 GB)",4.3,40228,1.5,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,11700
+432,"SAMSUNG Galaxy Note 4 (Charcoal Black, 32 GB)",4.1,4251,3.0,32,14.48,16MP Rear Camera | 3.7MP Front Camera,3220,0,0,36900
+433,"SAMSUNG Galaxy Note 4 (Charcoal Black, 32 GB)",4.1,4251,3.0,32,14.48,16MP Rear Camera | 3.7MP Front Camera,3220,0,0,36900
+434,"SAMSUNG Galaxy J7 Prime (Black, 32 GB)",4.2,19615,3.0,32,13.97,13MP Rear Camera | 8MP Front Camera,3300,0,0,15300
+435,"SAMSUNG Galaxy Ace NXT (Ceramic White, 4 GB)",3.8,394,0.5,4,10.16,3MP Rear Camera,1500,0,0,5490
+436,"SAMSUNG Galaxy J2 - 2016 (Gold, 8 GB)",4.0,3397,1.5,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7200
+437,"SAMSUNG Galaxy S10 (Prism Black, 128 GB)",4.6,1811,8.0,128,15.49,16MP + 12MP | 10MP Front Camera,3400,0,0,71000
+438,"SAMSUNG Galaxy J7 Duo (Blue, 32 GB)",4.3,2798,4.0,32,13.97,13MP + 5MP | 8MP Front Camera,3000,0,0,17990
+439,"SAMSUNG Galaxy Core Prime 4G (White, 8 GB)",4.0,159,1.0,8,11.43,5MP Rear Camera | 2MP Front Camera,2000,0,0,6999
+440,"SAMSUNG Galaxy S7 (Gold Platinum, 32 GB)",4.4,31872,4.0,32,12.95,12MP Rear Camera | 5MP Front Camera,3000,52000,57,22222
+441,"SAMSUNG Galaxy A5 2016 Edition (White, 16 GB)",4.1,926,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,2900,0,0,14490
+442,"SAMSUNG Galaxy Note 8 (Maple Gold, 64 GB)",4.6,5615,6.0,64,16.0,12MP + 12MP | 8MP Front Camera,3300,79999,55,35990
+443,"SAMSUNG Galaxy A5 (Black, 16 GB)",4.1,1975,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,2900,0,0,14490
+444,"SAMSUNG Galaxy S10e (Prism Black, 128 GB)",4.5,675,6.0,128,14.73,16MP + 12MP | 10MP Front Camera,3100,0,0,59000
+445,"SAMSUNG Galaxy C7 Pro (Gold, 64 GB)",4.4,1850,4.0,64,14.48,16MP Rear Camera | 16MP Front Camera,3300,0,0,26600
+446,"SAMSUNG Galaxy A7 (Midnight Black, 16 GB)",4.1,704,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2600,0,0,19990
+447,"SAMSUNG Galaxy Note 10 (Aura Red, 256 GB)",4.5,270,8.0,256,16.0,12MP (Dual Aperture) + 12MP + 16MP | 10MP Front Camera,3500,75000,1,73600
+448,"SAMSUNG Galaxy S10e (Prism White, 128 GB)",4.5,675,6.0,128,14.73,16MP + 12MP | 10MP Front Camera,3100,0,0,59000
+449,"SAMSUNG Galaxy Note 10 (Aura Glow, 256 GB)",4.5,270,8.0,256,16.0,12MP (Dual Aperture) + 12MP + 16MP | 10MP Front Camera,3500,75000,1,73600
+450,"SAMSUNG Galaxy Grand Neo Plus (White, 8 GB)",4.0,776,1.0,8,12.7,5MP Rear Camera | 2MP Front Camera,2100,0,0,9790
+451,"SAMSUNG Galaxy S10 Plus (Prism White, 128 GB)",4.6,1206,8.0,128,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,0,0,79000
+452,"SAMSUNG On7 Pro (Black, 16 GB)",4.1,1484,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,9490,30,6549
+453,"SAMSUNG Galaxy M40 (COCKTAIL ORANGE, 128 GB)",4.2,1201,6.0,128,16.0,32MP Rear Camera,3500,0,0,15490
+454,"SAMSUNG Galaxy Note 8 (Midnight Black, 64 GB)",4.6,5615,6.0,64,16.0,12MP + 12MP | 8MP Front Camera,3300,69000,49,34999
+455,"SAMSUNG Galaxy A3 (Midnight Black, 16 GB)",4.0,1792,1.0,16,11.43,8MP Rear Camera | 5MP Front Camera,1900,0,0,7599
+456,"SAMSUNG Galaxy Grand Neo (White, 8 GB)",3.8,1018,1.0,8,12.73,5MP Rear Camera | 0.3MP Front Camera,2100,0,0,13500
+457,"SAMSUNG Galaxy A7 (Pearl White, 16 GB)",4.1,704,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2600,0,0,19990
+458,"SAMSUNG Galaxy Note 10 Plus (Aura Glow, 512 GB)",4.6,5191,12.0,512,17.27,12MP (Dual Aperture) + 12MP + 16MP + TOF | 10MP Front Camera,4300,0,0,95000
+459,"SAMSUNG Galaxy S7 Edge (Pink Gold, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,41900
+460,"SAMSUNG Galaxy Mega 5.8 (Black, 8 GB)",3.8,426,1.5,8,14.73,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,26000
+461,"SAMSUNG Galaxy Grand Prime 4g (Grey, 8 GB)",3.9,624,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,9300
+462,"SAMSUNG Galaxy Note 10 Plus (Aura Black, 512 GB)",4.6,5191,12.0,512,17.27,12MP (Dual Aperture) + 12MP + 16MP + TOF | 10MP Front Camera,4300,0,0,95000
+463,"SAMSUNG Galaxy Core Prime (Charcoal Grey, 8 GB)",4.1,6912,1.0,8,11.43,5MP Rear Camera | 2MP Front Camera,2000,9700,43,5490
+464,"SAMSUNG Galaxy J2 Ace (Black, 8 GB)",4.1,1228,1.5,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8090
+465,"SAMSUNG Galaxy S20 (Cloud Blue, 128 GB)",4.3,262,8.0,128,15.75,64MP + 12MP + 12MP | 10MP Front Camera,4000,0,0,49980
+466,"SAMSUNG Galaxy J2 Pro (Silver, 16 GB)",4.2,7003,2.0,16,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8200
+467,"SAMSUNG Galaxy Alpha (Dazzling White, 32 GB)",3.6,364,2.0,32,11.94,12MP Rear Camera | 2.1MP Front Camera,1860,0,0,19999
+468,"SAMSUNG Galaxy Grand Neo Plus (White, 8 GB)",4.0,776,1.0,8,12.7,5MP Rear Camera | 2MP Front Camera,2100,0,0,4999
+469,"SAMSUNG Galaxy Star Pro (Midnight Black, 4 GB)",3.8,6308,0.5,4,10.16,2MP Rear Camera,1500,0,0,4299
+470,"SAMSUNG Galaxy Grand 2 (Black, 8 GB)",4.1,4687,1.5,8,13.31,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,9999
+471,"SAMSUNG Galaxy S Duos 2 (Pure White, 4 GB)",4.0,11623,0.7,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,5999
+472,"SAMSUNG Galaxy S7 Edge (Black Onyx, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,41900
+473,"SAMSUNG Galaxy Core 2 (White, 4 GB)",3.9,3345,0.8,4,11.43,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,5940
+474,"SAMSUNG Galaxy Folder 2 (Wine Red, 16 GB)",3.7,48,2.0,16,9.65,8MP Rear Camera | 5MP Front Camera,1950,0,0,27330
+475,"SAMSUNG Galaxy Core Prime (Silver, 8 GB)",4.1,6912,1.0,8,11.43,5MP Rear Camera | 2MP Front Camera,2000,0,0,6995
+476,"SAMSUNG Galaxy S6 Edge (Gold Platinum, 32 GB)",4.0,1219,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,29999
+477,"SAMSUNG Galaxy Core (Metallic Blue, 8 GB)",4.0,3858,1.0,8,10.92,5MP Rear Camera | 0.3MP Front Camera,1800,0,0,7999
+478,"SAMSUNG Galaxy S7 (Silver Titanium, 32 GB)",4.4,31872,4.0,32,12.95,12MP Rear Camera | 5MP Front Camera,3000,45500,48,23500
+479,"SAMSUNG Galaxy Trend (Ceramic White, 4 GB)",3.6,1945,0.5,4,10.16,3MP Rear Camera,1500,0,0,4999
+480,"SAMSUNG Galaxy Note 5 (Silver Titanium, 64 GB)",3.9,380,4.0,64,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,39900
+481,"SAMSUNG Galaxy S9 (Lilac Purple, 128 GB)",4.4,30544,4.0,128,14.73,12MP Rear Camera | 8MP Front Camera,3000,0,0,39900
+482,"SAMSUNG Galaxy A5 (Pearl White, 16 GB)",4.1,1975,2.0,16,12.7,13MP Rear Camera | 5MP Front Camera,2300,0,0,15993
+483,"SAMSUNG Galaxy A5 2016 Edition (Gold, 16 GB)",4.1,926,2.0,16,13.21,13MP Rear Camera | 5MP Front Camera,2900,0,0,14490
+484,"SAMSUNG Galaxy S20 (Cloud Pink, 128 GB)",4.3,262,8.0,128,15.75,64MP + 12MP + 12MP | 10MP Front Camera,4000,0,0,74000
+485,"SAMSUNG Galaxy Grand Prime 4g (White, 8 GB)",3.9,624,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8990
+486,"SAMSUNG M31 Prime (Ocean Blue, 64 GB)",4.4,650,6.0,64,16.26,64MP Rear Camera,6000,0,0,16000
+487,"SAMSUNG Galaxy Grand Neo Plus (Midnight Black, 8 GB)",4.0,776,1.0,8,12.73,5MP Rear Camera | 2MP Front Camera,2100,0,0,5999
+488,"SAMSUNG Galaxy Star (Ceramic White, 4 GB)",3.8,2001,0.5,4,7.37,2MP Rear Camera,1200,0,0,3599
+489,"SAMSUNG Galaxy E5 (White, 16 GB)",4.2,1011,1.5,16,12.7,8MP Rear Camera | 5MP Front Camera,2400,0,0,8490
+490,"SAMSUNG Galaxy Star (Noble Black, 4 GB)",3.8,2001,0.5,4,7.37,2MP Rear Camera,1200,0,0,4199
+491,"SAMSUNG Galaxy A7 (Champagne Gold, 16 GB)",4.1,704,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2600,0,0,9999
+492,"SAMSUNG Galaxy Star Advance (Black, 4 GB)",3.8,889,0.5,4,10.92,3MP Rear Camera,1800,0,0,3500
+493,"SAMSUNG Galaxy S6 (Gold Platinum, 32 GB)",4.0,666,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2550,0,0,33900
+494,"SAMSUNG Galaxy Grand Neo Plus (Gold, 8 GB)",4.0,776,1.0,8,12.7,5MP Rear Camera | 2MP Front Camera,2100,0,0,6999
+495,"SAMSUNG Galaxy Note 4 (Frost White, 32 GB)",4.1,4251,3.0,32,14.48,16MP Rear Camera | 3.7MP Front Camera,3220,0,0,27990
+496,"SAMSUNG Tizen Z3 (Black, 8 GB)",3.3,5190,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,4999
+497,"SAMSUNG Grand Prime 4G (White, 8 GB)",4.0,400,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7999
+498,"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",4.6,5615,6.0,64,16.0,12MP + 12MP | 8MP Front Camera,3300,74990,46,39990
+499,"SAMSUNG Grand Prime (White, 8 GB)",4.0,2195,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7992
+500,"SAMSUNG Galaxy S7 Edge (Gold Platinum, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,41900
+501,"SAMSUNG Galaxy Grand Quattro (Titan Gray, 8 GB)",4.0,3152,1.0,8,11.94,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,5999
+502,"SAMSUNG Galaxy S4 Zoom (White, 8 GB)",3.8,216,1.5,8,10.92,16MP Rear Camera | 1.9MP Front Camera,2330,0,0,15990
+503,"SAMSUNG Galaxy S6 Edge+ (Gold Platinum, 32 GB)",4.2,159,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,61988,54,28000
+504,"SAMSUNG Galaxy A80 (Angel Gold, 128 GB)",4.4,5392,8.0,128,17.02,48MP + 8MP | 48MP(F2.0) + 8MP(Ultra Wide/F2.2) + TOF (Time-of-Flight) 3D-Depth Rotating Camera,3700,0,0,29998
+505,"SAMSUNG Galaxy E7 (Blue, 16 GB)",4.3,1424,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2950,0,0,18340
+506,"SAMSUNG Galaxy S6 Edge (Black, 64 GB)",4.0,1219,3.0,64,12.95,16MP Rear Camera | 5MP Front Camera,2600,0,0,39999
+507,"SAMSUNG Galaxy Grand 2 (White, 8 GB)",4.1,4687,1.5,8,13.31,8MP Rear Camera | 1.9MP Front Camera,2600,0,0,10990
+508,"SAMSUNG Galaxy E5 (Black, 16 GB)",4.2,1011,1.5,16,12.7,8MP Rear Camera | 5MP Front Camera,2400,0,0,9890
+509,"SAMSUNG Tizen Z3 (Gold, 8 GB)",3.3,5190,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,4990
+510,"SAMSUNG Galaxy Grand Quattro (Ceramic White, 8 GB)",4.0,3152,1.0,8,11.94,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,6999
+511,"SAMSUNG Galaxy S6 (Black Sapphire, 32 GB)",4.0,666,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2550,0,0,27900
+512,"SAMSUNG Galaxy S6 Edge (Gold Platinum, 64 GB)",4.0,1219,3.0,64,12.95,16MP Rear Camera | 5MP Front Camera,2600,55000,45,29999
+513,"SAMSUNG Galaxy Grand Neo Plus (Midnight Black, 8 GB)",4.0,776,1.0,8,12.73,5MP Rear Camera | 2MP Front Camera,2100,0,0,6999
+514,"SAMSUNG Galaxy Trend (Midnight Black, 4 GB)",3.6,1945,0.5,4,10.16,3MP Rear Camera,1500,0,0,4999
+515,"SAMSUNG Galaxy S3 Neo (Black, 16 GB)",4.2,13441,1.5,16,12.19,8MP Rear Camera | 1.9MP Front Camera,2100,0,0,13499
+516,"SAMSUNG Galaxy Note Edge (Frost White, 32 GB)",3.3,182,3.0,32,14.22,16MP Rear Camera | 3.7MP Front Camera,3000,0,0,30000
+517,"SAMSUNG Galaxy E7 (White, 16 GB)",4.3,1424,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,2950,0,0,12999
+518,"SAMSUNG Z1 (Wine Red, 4096 MB)",3.5,3207,0.8,4,8.89,3.1MP Rear Camera | 0.3MP Front Camera,1500,0,0,5555
+519,"SAMSUNG Grand Prime (Grey, 8 GB)",4.0,2195,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,8500
+520,"SAMSUNG Galaxy Note 5 Dual (Gold Platinum, 32 GB)",4.2,118,4.0,32,14.48,16MP Rear Camera,3000,0,0,32990
+521,"SAMSUNG Galaxy S10 Plus (Prism Blue, 128 GB)",4.6,1206,8.0,128,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,72500,32,49000
+522,"SAMSUNG Galaxy Star Pro (White, 4 GB)",3.8,6308,0.5,4,10.16,2MP Rear Camera,1500,0,0,4199
+523,"SAMSUNG Galaxy S10 Plus (Prism Black, 128 GB)",4.6,1206,8.0,128,16.26,16MP + 12MP | 10MP + 8MP Dual Front Camera,4100,69800,29,49000
+524,"SAMSUNG Galaxy S6 Edge+ (Silver Titanium, 32 GB)",4.2,159,4.0,32,14.48,16MP Rear Camera | 5MP Front Camera,3000,0,0,34999
+525,"SAMSUNG Galaxy S Duos 2 (Black, 4 GB)",4.0,11623,0.7,4,10.16,5MP Rear Camera | 0.3MP Front Camera,1500,0,0,5999
+526,"SAMSUNG Galaxy Note 3 Neo (White, 16 GB)",4.2,2030,2.0,16,13.97,8MP Rear Camera | 2MP Front Camera,3100,0,0,11250
+527,"SAMSUNG Galaxy S7 Edge (Blue Coral, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,41900
+528,"SAMSUNG Galaxy J1 Ace (Blue, 4 GB)",3.9,2427,0.5,4,10.92,5MP Rear Camera | 2MP Front Camera,1800,0,0,5850
+529,"SAMSUNG Galaxy Core 2 (Black, 4 GB)",3.9,3345,0.8,4,11.43,5MP Rear Camera | 0.3MP Front Camera,2000,0,0,5920
+530,"SAMSUNG Galaxy S6 (White Pearl, 32 GB)",4.0,666,3.0,32,12.95,16MP Rear Camera | 5MP Front Camera,2550,0,0,24500
+531,"SAMSUNG Galaxy S4 Mini (White Frost, 8 GB)",3.8,1241,1.5,8,10.85,8MP Rear Camera | 1.9MP Front Camera,1900,0,0,14000
+532,"SAMSUNG Galaxy Grand I9082 (Metallic Blue, 8 GB)",4.0,925,1.0,8,12.7,8MP Rear Camera | 2MP Front Camera,2100,0,0,8999
+533,"SAMSUNG S7 Edge (Black Pearl, 128 GB)",4.3,16,4.0,128,13.97,12MP Rear Camera,3600,0,0,36900
+534,"SAMSUNG Grand Prime 4G (Gold, 8 GB)",4.0,400,1.0,8,12.7,8MP Rear Camera | 5MP Front Camera,2600,0,0,7899
+535,"SAMSUNG Galaxy S7 Edge (Gold Platinum, 32 GB)",4.4,3840,4.0,32,13.97,12MP Rear Camera | 5MP Front Camera,3600,0,0,31300
+536,"SAMSUNG On7 Pro (Black, 16 GB)",4.1,1484,2.0,16,13.97,13MP Rear Camera | 5MP Front Camera,3000,0,0,7990
